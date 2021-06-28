@@ -1,3 +1,10 @@
+# Para verlo desplegado en funcionamiento:
+
+https://angular-auth-masm.herokuapp.com/auth/login
+
+# El código del backend(Node) en authServer, otro repositorio
+
+
 # AuthApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.8.
